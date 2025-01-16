@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/craiyon_004951_com_tema_de_podcast_uma_linda_mulher_olhando_para_borboletas_ou_mariposas_acima_dela_.png"
     width="300"
 />
 </p>
