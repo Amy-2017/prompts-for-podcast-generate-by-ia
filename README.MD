@@ -37,14 +37,9 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## 👨‍💻 Expert
 
-
-    <a 
-        href="https://github.com/Amy-2017">
+     href="https://github.com/Amy-2017">
         GitHub
     </a>
-    &nbsp;|&nbsp;
-    <a       
-    
         href="https://www.instagram.com/k_kamorim.exe/">
         Instagram
    
