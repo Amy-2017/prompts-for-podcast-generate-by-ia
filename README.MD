@@ -35,18 +35,6 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Craiyon Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 👨‍💻 Expert
-
-     href="https://github.com/Amy-2017">
-        GitHub
-    </a>
-        href="https://www.instagram.com/k_kamorim.exe/">
-        Instagram
-   
-</p>
-<br/><br/>
-<p>
-
 ---
 
 ⌨️ com 💜 por [Karina Pereira Amorim Xavier](https://github.com/Amy-2017)
