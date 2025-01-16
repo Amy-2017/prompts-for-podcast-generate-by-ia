@@ -32,7 +32,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Craiyon Para gerar capas
+- Craiyon para gerar a capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ---
