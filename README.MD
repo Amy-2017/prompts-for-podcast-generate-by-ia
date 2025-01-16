@@ -18,7 +18,7 @@
 
  > ℹ️ **NOTE:** 
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado durante aula da DIO.me.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado durante aula do bootcamp da DIO.me.
 
 
 ## 💻 Tecnologias utilizadas no projeto
